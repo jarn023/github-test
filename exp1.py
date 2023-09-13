@@ -2,7 +2,7 @@ import numpy as np
 import random 
 import matplotlib.pyplot as plt
 
-No_of_trials = 20
+No_of_trials = 10
 No_of_coins = 2
 t=[];res=[];rand_num=[]
 grid = np.zeros([No_of_trials,No_of_coins])
